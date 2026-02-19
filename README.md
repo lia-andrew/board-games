@@ -40,12 +40,13 @@ The following software must be installed to follow the installation steps:
     cd board-games
     ```
 
-3. Run the following Apache Maven goals:
+3. If you want to make changes to the source code and/or package the code locally, run the following
+   Apache Maven goals (otherwise skip this step):
     ```
     mvn clean compile package
     ```
 
-4. Now enter the newly generated `target` directory:
+4. Now enter the (newly) generated `target` directory:
     ```
     cd target
     ```
@@ -59,8 +60,8 @@ The following software must be installed to follow the installation steps:
 
 6. Follow the [How To Use](#how-to-use) section and enjoy!
 
-7. You can also import the jar files starting with `board_game-1.0.0` as an external library into
-   another project
+n.b. You can also import the jar files starting with `board_games-` as an external library into
+another project
 
 ## How To Use
 

@@ -40,3 +40,7 @@ build/
 
 # ---------- CUSTOM ---------- #
 .idea/
+
+!target/board-games*.jar
+!target/RunClient.jar
+!target/RunServer.jar
