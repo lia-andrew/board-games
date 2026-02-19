@@ -210,8 +210,8 @@ adding new board game variants should not qualify as a MAJOR change.
 
 ## Authors
 
-* **Andrew Lia** - GitHub: [alias012](https://github.com/alias012) -
-  LinkedIn: [AndrewLia](https://linkedin.com/in/andrew-lia)
+* **Andrew Lia**:
+  [GitHub](https://github.com/lia-andrew) - [LinkedIn](https://linkedin.com/in/andrew-lia)
 
 ## License
 
